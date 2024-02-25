@@ -1,1 +1,13 @@
-python-3.10.0
+pyrogram==2.0.106
+tgcrypto
+requests
+pyromod
+git+https://github.com/yt-dlp/yt-dlp@master
+aiohttp
+aiofiles
+ffmpeg
+ffprobe
+asyncio
+humanize
+Flask
+gunicorn
